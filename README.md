@@ -3,4 +3,5 @@ This is security monitoring system , which is made for non techniqual users. Thi
 
 Steps : 
 1 Open Terminal and run pyinstaller -F Security_monitering_System.py --onefile --collect-all customtkinter --noconsole -i shield.ico
+
 2 go to dist folder and run .exe file
